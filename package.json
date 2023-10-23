@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/kribac12/jest-test/issues"
   },
-  "homepage": "https://github.com/kribac12/jest-test#readme"
+  "homepage": "https://github.com/kribac12/jest-test#readme",
+  "devDependencies": {
+    "jest": "^29.2.0"
+  }
 }
