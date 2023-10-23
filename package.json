@@ -1,0 +1,23 @@
+{
+  "name": "jest-test",
+  "version": "0.0.1",
+  "description": "jest-test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kribac12/jest-test.git"
+  },
+  "keywords": [
+    "testing",
+    "jest"
+  ],
+  "author": "Kristine Bache kristinembache@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kribac12/jest-test/issues"
+  },
+  "homepage": "https://github.com/kribac12/jest-test#readme"
+}
